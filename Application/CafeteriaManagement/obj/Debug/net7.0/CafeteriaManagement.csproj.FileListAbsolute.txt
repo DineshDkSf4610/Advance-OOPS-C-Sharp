@@ -1,0 +1,15 @@
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Application\CafeteriaManagement\bin\Debug\net7.0\CafeteriaManagement.exe
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Application\CafeteriaManagement\bin\Debug\net7.0\CafeteriaManagement.deps.json
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Application\CafeteriaManagement\bin\Debug\net7.0\CafeteriaManagement.runtimeconfig.json
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Application\CafeteriaManagement\bin\Debug\net7.0\CafeteriaManagement.dll
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Application\CafeteriaManagement\bin\Debug\net7.0\CafeteriaManagement.pdb
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Application\CafeteriaManagement\obj\Debug\net7.0\CafeteriaManagement.csproj.AssemblyReference.cache
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Application\CafeteriaManagement\obj\Debug\net7.0\CafeteriaManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Application\CafeteriaManagement\obj\Debug\net7.0\CafeteriaManagement.AssemblyInfoInputs.cache
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Application\CafeteriaManagement\obj\Debug\net7.0\CafeteriaManagement.AssemblyInfo.cs
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Application\CafeteriaManagement\obj\Debug\net7.0\CafeteriaManagement.csproj.CoreCompileInputs.cache
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Application\CafeteriaManagement\obj\Debug\net7.0\CafeteriaManagement.dll
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Application\CafeteriaManagement\obj\Debug\net7.0\refint\CafeteriaManagement.dll
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Application\CafeteriaManagement\obj\Debug\net7.0\CafeteriaManagement.pdb
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Application\CafeteriaManagement\obj\Debug\net7.0\CafeteriaManagement.genruntimeconfig.cache
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Application\CafeteriaManagement\obj\Debug\net7.0\ref\CafeteriaManagement.dll

@@ -1,0 +1,15 @@
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Encapsulation\Inside\bin\Debug\net7.0\Inside.exe
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Encapsulation\Inside\bin\Debug\net7.0\Inside.deps.json
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Encapsulation\Inside\bin\Debug\net7.0\Inside.runtimeconfig.json
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Encapsulation\Inside\bin\Debug\net7.0\Inside.dll
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Encapsulation\Inside\bin\Debug\net7.0\Inside.pdb
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Encapsulation\Inside\obj\Debug\net7.0\Inside.csproj.AssemblyReference.cache
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Encapsulation\Inside\obj\Debug\net7.0\Inside.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Encapsulation\Inside\obj\Debug\net7.0\Inside.AssemblyInfoInputs.cache
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Encapsulation\Inside\obj\Debug\net7.0\Inside.AssemblyInfo.cs
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Encapsulation\Inside\obj\Debug\net7.0\Inside.csproj.CoreCompileInputs.cache
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Encapsulation\Inside\obj\Debug\net7.0\Inside.dll
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Encapsulation\Inside\obj\Debug\net7.0\refint\Inside.dll
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Encapsulation\Inside\obj\Debug\net7.0\Inside.pdb
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Encapsulation\Inside\obj\Debug\net7.0\Inside.genruntimeconfig.cache
+C:\Users\DineshKumarThiyagara\OneDrive - Syncfusion\Desktop\AdvanceOOPS\Encapsulation\Inside\obj\Debug\net7.0\ref\Inside.dll
